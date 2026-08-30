@@ -65,6 +65,7 @@ IPTV提供商列表。
 - [Connecktik TV](http://connectik.tv/) - 喀麦隆直播电视频道。
 - [Necro IPTV](https://necroiptv.com/) 提供所有优质的英国，爱尔兰，德国，土耳其，阿拉伯语，美国和加拿大频道。
 - [Edem.tv](https://edem.tv/) - 超过400个俄罗斯IPTV频道和4天的节目存档。
+- [IPTV Player Stream](https://iptvplayer.stream/) - Online IPTV Player。
 
 ## 渠道数据源
 
@@ -92,6 +93,12 @@ IPTV频道的EPG（电子节目指南）来源。
 - [WebGrab + Plus](http://www.webgrabplus.com/) 多站点增量XMLTV EPG采集器。
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — Node.js的IPTV播放列表检查器
 - [Streamtest](https://streamtest.in/) 免费且易于使用的基于Web的流测试器实用程序。
+
+### 在线观看平台
+
+- [Global Free TV](https://www.globalfreetv.com/) 免费在线 IPTV 直播平台，7000+ 频道覆盖 150+ 国家，无需注册即可观看。
+- [IPTV-org Web Player](https://iptv-org.github.io/) 基于 iptv-org 源的在线播放器，支持多国频道搜索与播放。
+- [Plex Live TV](https://www.plex.tv/live-tv/) Plex 提供的免费直播电视服务，聚合新闻、体育、娱乐等频道。
 
 ### 监测工具
 
